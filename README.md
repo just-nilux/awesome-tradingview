@@ -10,7 +10,6 @@ More info about Pinescript [here](https://www.tradingview.com/pine-script-docs/e
 ## Table of Contents
 
 <!-- MarkdownTOC depth=4 -->
-- 
 - [Essentials](#github-essentials)
 - [Boilerplates](#github-frameworks)
 - [Custom Functions](#github-functions)
