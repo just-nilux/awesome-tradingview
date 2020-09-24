@@ -12,7 +12,8 @@ More info about Pinescript [here](https://www.tradingview.com/pine-script-docs/e
 <!-- MarkdownTOC depth=4 -->
 ### Pinescript
 - [Pinescript Essentials](#github-essentials)
-- [Indicator / Strategy Boilerplates](#github-frameworks)
+- [Frameworks & Boilerplates](#github-frameworks)
+- [Custom Functions](#github-functions)
 ### Trading Bots for TradingView
 - [ProfitView (Chrome Extension)](#github-frameworks)
 - [FrostyBot (PHP Application)](#github-frameworks)
@@ -27,16 +28,31 @@ More info about Pinescript [here](https://www.tradingview.com/pine-script-docs/e
 * [How to avoid repainting when NOT using security() function](https://www.tradingview.com/script/s8kWs84i-How-to-avoid-repainting-when-NOT-using-security/) - Avoid repainting when NOT using security() to retrieve higher timeframes
 * [A Deeper Look Into Security Function](https://docs.google.com/document/d/1HBoJVjb2wDpLnzKOlZalyFPXlUGMeMGVzZNzBTpv8cU/edit/) - Another take on the security() function
 * [Pinescript Execution Time](https://www.tradingview.com/script/rRmrkRDr-Script-Stopwatch-PineCoders-FAQ/) - Calculate the run time of a Pinescript for performance optimisation
-* [MTF Selection Framework](https://www.tradingview.com/script/90mqACUV-MTF-Selection-Framework-PineCoders-FAQ/) - Multi-Timeframe (MTF) framwork
-* [Alert Creation Framework](https://www.tradingview.com/script/JpDlXzdD-Alert-Creation-Framework-PineCoders-FAQ/) - Create Alerts the proper way
-* [Fancy Strategy Alerts](https://www.tradingview.com/script/biUvPKOz-Fancy-strategy-alerts-example-QuantNomad/) - Use alert_message placeholder for complex alerts
 * [More Essential Resources for Beginners](https://www.pinecoders.com/faq_and_code/) - A compendium of frequently asked questions by PineCoders
 
 <a name="#github-frameworks" />
-## Indicator / Strategy Boilerplates
-WIP
 
-<a name="#github-function" />
+## Frameworks & Boilerplates
+
+* [MTF Selection Framework](https://www.tradingview.com/script/90mqACUV-MTF-Selection-Framework-PineCoders-FAQ/) - Multi-Timeframe (MTF) framwork
+* [Alert Creation Framework](https://www.tradingview.com/script/JpDlXzdD-Alert-Creation-Framework-PineCoders-FAQ/) - Create Alerts the proper way
+
+
+<a name="#github-functions" />
+
+## Custom Functions
+
+* [Fancy Strategy Alerts](https://www.tradingview.com/script/biUvPKOz-Fancy-strategy-alerts-example-QuantNomad/) - Use alert_message placeholder for complex alerts
+* [Alert Intervals and Delays](https://www.tradingview.com/script/PxXVgogh-Alert-Intervals-and-Delays-Framework-BigBitsIO/) Allows to check alert conditions every X seconds
+
+<a name="#github-functions" />
+
+## Indicators & Strategies
+
+* [GitLemon Trading](https://github.com/grimmolf/LemonTrading/blob/master/GitLemon) - Bollinger Band, Keltner Channel Squeezes & Market Structure
+* [Modular Trading Framework](https://www.tradingview.com/script/0VrQnXwe-MOD-Backtest-1-9/) - Backtest and Alerts for Indicator Modules
+* [MF RedFlow](https://gist.github.com/CryptoMF/11fb235322c1cc0a635c3133dd95f404/) - Several Indicators combined with TP and Re-Entries
+* [RSX Divergence](https://www.tradingview.com/script/ujh3sCzy-RSX-Divergence-SharkCIA/) - Everget's Implementation of RSX with Divergences
 
 <a name="contributions" />
 
