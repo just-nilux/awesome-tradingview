@@ -14,8 +14,8 @@ However, this list is a collection of strategies and indicators build on Trading
 - [Frameworks & Boilerplates](#github-frameworks)
 - [Custom Functions](#github-functions)
 ### Trading Bots for TradingView
-- [ProfitView (Chrome Extension)](#github-frameworks)
-- [FrostyBot (PHP Application)](#github-frameworks)
+- [ProfitView (Chrome Extension)](https://profitview.app/)
+- [FrostyBot (PHP Application)](https://github.com/CryptoMF/frostybot)
 <!-- /MarkdownTOC -->
 
 <a name="github-essentials" />
