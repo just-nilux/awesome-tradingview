@@ -10,7 +10,7 @@ More info about Pinescript [here](https://www.tradingview.com/pine-script-docs/e
 ## Table of Contents
 
 <!-- MarkdownTOC depth=4 -->
-### The Basics
+### Pinescript
 - [Pinescript Essentials](#github-essentials)
 - [Indicator / Strategy Boilerplates](#github-frameworks)
 ### Trading Bots for TradingView
@@ -32,7 +32,9 @@ More info about Pinescript [here](https://www.tradingview.com/pine-script-docs/e
 * [Fancy Strategy Alerts](https://www.tradingview.com/script/biUvPKOz-Fancy-strategy-alerts-example-QuantNomad/) - Use alert_message placeholder for complex alerts
 * [More Essential Resources for Beginners](https://www.pinecoders.com/faq_and_code/) - A compendium of frequently asked questions by PineCoders
 
-<a name="#github-tutorials" />
+<a name="#github-frameworks" />
+## Indicator / Strategy Boilerplates
+WIP
 
 <a name="#github-function" />
 
