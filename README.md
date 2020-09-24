@@ -21,14 +21,14 @@ More info about Pinescript [here](https://www.tradingview.com/pine-script-docs/e
 
 ## Essentials
 
-* [Real-time & Historical Data](https://backtest-rookies.com/2017/06/23/tradingview-understanding-lookahead-historical-realtime-data/) - Understanding lookahead, historical and realtime data
-* [How to avoid repainting when using security() function](https://www.tradingview.com/script/cyPWY96u-How-to-avoid-repainting-when-using-security-PineCoders-FAQ/) - How to avoid repainting when using the security() function to retrieve information from higher timeframes
-* [How to avoid repainting when NOT using security() function](https://www.tradingview.com/script/s8kWs84i-How-to-avoid-repainting-when-NOT-using-security/) - This script demonstrates three methods to avoid repainting when NOT using the security() function
-* [A Deeper Look Into Security Function](https://docs.google.com/document/d/1HBoJVjb2wDpLnzKOlZalyFPXlUGMeMGVzZNzBTpv8cU/edit/) - Summary of how, why or why not use the security() function
-* [Pinescript Execution Time](https://www.tradingview.com/script/rRmrkRDr-Script-Stopwatch-PineCoders-FAQ/) - This script calculates the run time of a Pinescript to help you optimize it's performance
-* [MTF Selection Framework](https://www.tradingview.com/script/90mqACUV-MTF-Selection-Framework-PineCoders-FAQ/) - MTF Selection Framework allows Pine coders to add multi-timeframe capabilities to their scripts
-* [Alert Creation Framework](https://www.tradingview.com/script/JpDlXzdD-Alert-Creation-Framework-PineCoders-FAQ/) - Examples on hoe to properly add alerts to a script
-* [Fancy Strategy Alerts](https://www.tradingview.com/script/biUvPKOz-Fancy-strategy-alerts-example-QuantNomad/) - Alerts on Strategies were introduced just recently in TradingView. These simple examples have an alert_message placeholder which allows you to compose very complex alerts. 
+* [Real-time & Historical Data](https://backtest-rookies.com/2017/06/23/tradingview-understanding-lookahead-historical-realtime-data/) - Understand lookahead, historical & realtime data
+* [How to avoid repainting when using security() function](https://www.tradingview.com/script/cyPWY96u-How-to-avoid-repainting-when-using-security-PineCoders-FAQ/) - Avoid repainting when using security() function to retrieve higher timeframes
+* [How to avoid repainting when NOT using security() function](https://www.tradingview.com/script/s8kWs84i-How-to-avoid-repainting-when-NOT-using-security/) - Avoid repainting when NOT using security() function to retrieve higher timeframes
+* [A Deeper Look Into Security Function](https://docs.google.com/document/d/1HBoJVjb2wDpLnzKOlZalyFPXlUGMeMGVzZNzBTpv8cU/edit/) - Another take on the security() function
+* [Pinescript Execution Time](https://www.tradingview.com/script/rRmrkRDr-Script-Stopwatch-PineCoders-FAQ/) - Calculate the run time of a Pinescript for performance optimisation
+* [MTF Selection Framework](https://www.tradingview.com/script/90mqACUV-MTF-Selection-Framework-PineCoders-FAQ/) - Multi-Timeframe (MTF) framwork
+* [Alert Creation Framework](https://www.tradingview.com/script/JpDlXzdD-Alert-Creation-Framework-PineCoders-FAQ/) - Create Alerts the proper way
+* [Fancy Strategy Alerts](https://www.tradingview.com/script/biUvPKOz-Fancy-strategy-alerts-example-QuantNomad/) - Use alert_message placeholder for complex alerts
 * [More Essential Resources for Beginners](https://www.pinecoders.com/faq_and_code/) - A compendium of frequently asked questions by PineCoders
 
 <a name="#github-tutorials" />
