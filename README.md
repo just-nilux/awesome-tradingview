@@ -1,9 +1,9 @@
 # Awesome Tradingview Strategies & Indicators [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/jtoy/awesome)
-A curated list of free and/or open-source TradingView Pinescript Strategies & Indicators
+A curated list of free and/or open-source [TradingView](https://www.tradingview.com/gopro/?share_your_love=nilux) Pinescript Strategies & Indicators
 
 ## What is TradingView and PineScript?
 
-TradingView is a community-driven charting platform to get real-time market data, share trading ideas and education material.
+[TradingView](https://www.tradingview.com/gopro/?share_your_love=nilux) is a community-driven charting platform to get real-time market data, share trading ideas and education material.
 However, this list is a collection of strategies and indicators build on the properitary TradingView Pinescript scripting engine.
 More info about Pinescript [here](https://www.tradingview.com/pine-script-docs/en/v4/Introduction.html).
 
