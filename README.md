@@ -11,8 +11,8 @@ More info about Pinescript [here](https://www.tradingview.com/pine-script-docs/e
 
 <!-- MarkdownTOC depth=4 -->
 ### The Basics
-- [Essentials](#github-essentials)
-- [Boilerplates](#github-frameworks)
+- [Pinescript Essentials](#github-essentials)
+- [Indicator / Strategy Boilerplates](#github-frameworks)
 ### Automated Trading with TradingView
 - [How To: Connect Tradingview to Trading Bots](#github-frameworks)
 - [Best Strategies for Trading Bots](#github-functions)
