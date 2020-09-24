@@ -4,8 +4,7 @@ A curated list of [TradingView](https://www.tradingview.com/) Pinescript Resourc
 ## What is TradingView and PineScript?
 
 TradingView is a community-driven charting platform to get real-time market data, share trading ideas and education material.
-However, this list is a collection of strategies and indicators build on the properitary TradingView Pinescript scripting engine.
-More info about Pinescript [here](https://www.tradingview.com/pine-script-docs/en/v4/Introduction.html).
+However, this list is a collection of strategies and indicators build on TradingView's [Pinescript](https://www.tradingview.com/pine-script-docs/en/v4/Introduction.html).
 
 ## Table of Contents
 
