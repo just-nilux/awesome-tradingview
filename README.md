@@ -1,9 +1,9 @@
 # Awesome Tradingview [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/jtoy/awesome)
-A curated list of [TradingView](https://www.tradingview.com/gopro/?share_your_love=nilux) Pinescript Resources, Strategies & Indicators
+A curated list of [TradingView](https://www.tradingview.com/) Pinescript Resources, Strategies & Indicators
 
 ## What is TradingView and PineScript?
 
-[TradingView](https://www.tradingview.com/gopro/?share_your_love=nilux) is a community-driven charting platform to get real-time market data, share trading ideas and education material.
+TradingView is a community-driven charting platform to get real-time market data, share trading ideas and education material.
 However, this list is a collection of strategies and indicators build on the properitary TradingView Pinescript scripting engine.
 More info about Pinescript [here](https://www.tradingview.com/pine-script-docs/en/v4/Introduction.html).
 
@@ -16,10 +16,6 @@ More info about Pinescript [here](https://www.tradingview.com/pine-script-docs/e
 ### Trading Bots for TradingView
 - [ProfitView (Chrome Extension)](#github-frameworks)
 - [FrostyBot (PHP Application)](#github-frameworks)
-- [3Commas (SaaS)](#github-frameworks)
-### Automated Trading with TradingView
-- [Best Strategies for Trading Bots](#github-functions)
-- [Worst Strategies for Trading Bots](#github-functions)
 <!-- /MarkdownTOC -->
 
 <a name="github-essentials" />
