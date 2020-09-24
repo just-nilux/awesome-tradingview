@@ -1,5 +1,5 @@
-# Awesome Tradingview Strategies & Indicators [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/jtoy/awesome)
-A curated list of free and/or open-source [TradingView](https://www.tradingview.com/gopro/?share_your_love=nilux) Pinescript Strategies & Indicators
+# Awesome Tradingview [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/jtoy/awesome)
+A curated list of [TradingView](https://www.tradingview.com/gopro/?share_your_love=nilux) Pinescript Resources, Strategies & Indicators
 
 ## What is TradingView and PineScript?
 
@@ -13,8 +13,11 @@ More info about Pinescript [here](https://www.tradingview.com/pine-script-docs/e
 ### The Basics
 - [Pinescript Essentials](#github-essentials)
 - [Indicator / Strategy Boilerplates](#github-frameworks)
+### Trading Bots for TradingView
+- [ProfitView (Chrome Extension)](#github-frameworks)
+- [FrostyBot (PHP Application)](#github-frameworks)
+- [3Commas (SaaS)](#github-frameworks)
 ### Automated Trading with TradingView
-- [How To: Connect Tradingview to Trading Bots](#github-frameworks)
 - [Best Strategies for Trading Bots](#github-functions)
 - [Worst Strategies for Trading Bots](#github-functions)
 <!-- /MarkdownTOC -->
@@ -38,7 +41,6 @@ More info about Pinescript [here](https://www.tradingview.com/pine-script-docs/e
 <a name="#github-function" />
 
 <a name="contributions" />
-
 
 ## Contributions
 
