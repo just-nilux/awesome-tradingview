@@ -12,8 +12,9 @@ More info about Pinescript [here](https://www.tradingview.com/pine-script-docs/e
 <!-- MarkdownTOC depth=4 -->
 - [Essentials](#github-essentials)
 - [Boilerplates](#github-frameworks)
-- [Custom Functions](#github-functions)
-- More Coming... WIP!
+- [Trading Automation with Alerts](#github-frameworks)
+- [Best Strategies for Trading Bots](#github-functions)
+- [Best Strategies for Trading Bots](#github-functions)
 <!-- /MarkdownTOC -->
 
 
