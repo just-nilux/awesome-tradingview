@@ -22,8 +22,8 @@ More info about Pinescript [here](https://www.tradingview.com/pine-script-docs/e
 ## Essentials
 
 * [Real-time & Historical Data](https://backtest-rookies.com/2017/06/23/tradingview-understanding-lookahead-historical-realtime-data/) - Understand lookahead, historical & realtime data
-* [How to avoid repainting when using security() function](https://www.tradingview.com/script/cyPWY96u-How-to-avoid-repainting-when-using-security-PineCoders-FAQ/) - Avoid repainting when using security() function to retrieve higher timeframes
-* [How to avoid repainting when NOT using security() function](https://www.tradingview.com/script/s8kWs84i-How-to-avoid-repainting-when-NOT-using-security/) - Avoid repainting when NOT using security() function to retrieve higher timeframes
+* [How to avoid repainting when using security() function](https://www.tradingview.com/script/cyPWY96u-How-to-avoid-repainting-when-using-security-PineCoders-FAQ/) - Avoid repainting when using security() to retrieve higher timeframes
+* [How to avoid repainting when NOT using security() function](https://www.tradingview.com/script/s8kWs84i-How-to-avoid-repainting-when-NOT-using-security/) - Avoid repainting when NOT using security() to retrieve higher timeframes
 * [A Deeper Look Into Security Function](https://docs.google.com/document/d/1HBoJVjb2wDpLnzKOlZalyFPXlUGMeMGVzZNzBTpv8cU/edit/) - Another take on the security() function
 * [Pinescript Execution Time](https://www.tradingview.com/script/rRmrkRDr-Script-Stopwatch-PineCoders-FAQ/) - Calculate the run time of a Pinescript for performance optimisation
 * [MTF Selection Framework](https://www.tradingview.com/script/90mqACUV-MTF-Selection-Framework-PineCoders-FAQ/) - Multi-Timeframe (MTF) framwork
