@@ -46,7 +46,7 @@ However, this list is a collection of strategies and indicators build on Trading
 
 ## Indicators & Strategies
 
-* [Modular Trading Framework](https://www.tradingview.com/script/0VrQnXwe-MOD-Backtest-1-9/) - Backtest and Alerts for Indicator Modules
+* [Modular Trading Framework](https://www.tradingview.com/script/IjD0oC5G-NLX-L3-Backtest/) - Backtest and Alerts for Indicator Modules
 * [GitLemon Trading](https://github.com/grimmolf/LemonTrading/blob/master/GitLemon) - Bollinger Band, Keltner Channel Squeezes & Market Structure
 * [MF RedFlow](https://gist.github.com/CryptoMF/11fb235322c1cc0a635c3133dd95f404/) - Several Indicators combined with TP and Re-Entries
 * [RSX Divergence](https://www.tradingview.com/script/ujh3sCzy-RSX-Divergence-SharkCIA/) - Everget's Implementation of RSX with Divergences
