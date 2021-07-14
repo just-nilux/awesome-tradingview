@@ -56,8 +56,8 @@ However, this list is a collection of strategies and indicators build on Trading
 ## Trading Bots for TradingView
 
 * [ProfitView (Commercial)](https://profitview.app/) - A Chrome Extension with powerful scripting engine, supports most exchanges
-* [StackedInvest] (Commercial)(https://stackedinvest.com?via=ftx) - The Best Automated Trading Strategies
-* [3Commas] (Commercial)(https://3commas.io/?c=ftx) - Easily automate TradingView Strategies
+* [StackedInvest (Commercial)](https://stackedinvest.com?via=ftx) - The Best Automated Trading Strategies
+* [3Commas (Commercial)](https://3commas.io/?c=ftx) - Easily automate TradingView Strategies
 * [FrostyBot (Open-Source)](https://github.com/CryptoMF/frostybot) - An API-Endpoint for webhook alerts written in PHP 
 
 <a name="contributions" />
