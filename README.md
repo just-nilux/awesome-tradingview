@@ -1,5 +1,5 @@
 # Awesome Tradingview [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/jtoy/awesome)
-A curated list of [TradingView](https://www.tradingview.com/) Pine Script Resources, Strategies & Indicators
+A curated list of [TradingView](https://www.tradingview.com/gopro/?share_your_love=nilux) Pine Script Resources, Strategies & Indicators
 
 ## What is TradingView and PineScript?
 
