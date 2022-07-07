@@ -15,7 +15,7 @@ However, this list is a collection of strategies and indicators build on Trading
 - [Useful Pine Script Functions](#github-functions)
 - [Indicators & Strategies](#github-indicators)
 - [Trading Bots for TradingView](#github-tradingbots)
-- [Entire Collection / More Tools](#github-more)
+- [Entire Collection - All Tools](#github-more)
 <!-- /MarkdownTOC -->
 
 <a name="github-essentials" />
