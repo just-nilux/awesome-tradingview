@@ -15,6 +15,7 @@ However, this list is a collection of strategies and indicators build on Trading
 - [Useful Pine Script Functions](#github-functions)
 - [Indicators & Strategies](#github-indicators)
 - [Trading Bots for TradingView](#github-tradingbots)
+- [Entire Collection / More Tools](#github-more)
 <!-- /MarkdownTOC -->
 
 <a name="github-essentials" />
@@ -59,6 +60,12 @@ However, this list is a collection of strategies and indicators build on Trading
 * [StackedInvest (Commercial)](https://stackedinvest.com?via=ftx) - The Best Automated Trading Strategies
 * [3Commas (Commercial)](https://3commas.io/?c=ftx) - Easily automate TradingView Strategies
 * [FrostyBot (Open-Source)](https://github.com/CryptoMF/frostybot) - An API-Endpoint for webhook alerts written in PHP 
+
+<a name="#github-more" />
+
+## More Resources & Tools
+
+* [Entire List](https://bit.ly/3yor7uR) - Even more tools
 
 <a name="contributions" />
 
