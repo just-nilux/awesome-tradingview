@@ -63,9 +63,9 @@ However, this list is a collection of strategies and indicators build on Trading
 
 <a name="#github-more" />
 
-## More Resources & Tools
+## DYDX
 
-* [Entire List](https://bit.ly/3yor7uR) - Even more tools
+* [DYDX](https://dydx.exchange/r/SIYVANAU)
 
 <a name="contributions" />
 
