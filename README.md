@@ -65,7 +65,7 @@ However, this list is a collection of strategies and indicators build on Trading
 
 ## Enterprise-ready Python Trading Bots
 
-* I'm building ML/AI-based trading strategies and python trading bots. Contact me if you are looking for a custom solution that can handle any portfolio size.
+* I'm building ML/AI-based trading strategies and python trading bots. Contact me if you are looking for a custom solution that can handle any portfolio size. Telegram: @nlxtrading
 
 <a name="contributions" />
 
