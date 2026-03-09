@@ -59,7 +59,8 @@ However, this list is a collection of strategies and indicators build on Trading
 * [ProfitView (Commercial)](https://profitview.app/) - A Chrome Extension with powerful scripting engine, supports most exchanges
 * [StackedInvest (Commercial)](https://stackedinvest.com?via=ftx) - The Best Automated Trading Strategies
 * [3Commas (Commercial)](https://3commas.io/?c=ftx) - Easily automate TradingView Strategies
-* [FrostyBot (Open-Source)](https://github.com/CryptoMF/frostybot) - An API-Endpoint for webhook alerts written in PHP 
+* [FrostyBot (Open-Source)](https://github.com/CryptoMF/frostybot) - An API-Endpoint for webhook alerts written in PHP
+* [Chartscout (Commercial)](https://chartscout.io) - Real-Time Detection. Scans 1,000+ pairs across 4 exchanges 24/7. Detects patterns instantly and alerts you in under 20 seconds. 
 
 <a name="#github-more" />
 
