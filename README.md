@@ -60,6 +60,7 @@ However, this list is a collection of strategies and indicators build on Trading
 * [StackedInvest (Commercial)](https://stackedinvest.com?via=ftx) - The Best Automated Trading Strategies
 * [3Commas (Commercial)](https://3commas.io/?c=ftx) - Easily automate TradingView Strategies
 * [FrostyBot (Open-Source)](https://github.com/CryptoMF/frostybot) - An API-Endpoint for webhook alerts written in PHP 
+* [DeepAlpha (Open-Source)](https://github.com/stefanoviana/deepalpha) - AI crypto trading bot with 3-model ML ensemble and TradingView webhook integration. 70.9% walk-forward accuracy across 12 exchanges
 
 <a name="#github-more" />
 
