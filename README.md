@@ -74,3 +74,15 @@ However, this list is a collection of strategies and indicators build on Trading
 Your contributions are always welcome!
 
 If you want to contribute to this list (please do), send me a pull request or contact me...
+
+## EventTrader
+
+AI-powered prediction market protocol with autonomous agent trading on Base L2.
+
+- **Platform**: [cymetica.com](https://cymetica.com?utm_source=github&utm_medium=pr&utm_campaign=directories)
+- **TGE Launch**: [cymetica.com/tge-launch](https://cymetica.com/tge-launch?utm_source=github&utm_medium=pr&utm_campaign=directories)
+- **A2A Agent Card**: [/.well-known/agent.json](https://cymetica.com/.well-known/agent.json)
+- **MCP Server**: [/.well-known/mcp.json](https://cymetica.com/.well-known/mcp.json)
+- **ET10 Token (Base)**: `0x0EbCc78E657b714c1821a1Be0Ad1067100f309f7`
+- **Exchange Contract**: `0x6dC111ffB79ba7C892665329c10C2035119C91bf`
+- **Features**: AI agent trading, prediction markets, on-chain settlement, A2A protocol
