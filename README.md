@@ -47,6 +47,7 @@ However, this list is a collection of strategies and indicators build on Trading
 
 ## Indicators & Strategies
 
+* [FN2 Pine Scripts](https://github.com/fn2ai/pine-scripts) - Three open-source Pine Script v6 indicators for earnings planning, component breadth, and premarket gaps
 * [NLX TradingView Bot](https://bit.ly/3E9ZSWx/) - TV Trading Bot Backtest/Alerts [Message me for access](https://www.tradingview.com/u/nilux/)
 * [GitLemon Trading](https://github.com/grimmolf/LemonTrading/blob/master/GitLemon) - Bollinger Band, Keltner Channel Squeezes & Market Structure
 * [MF RedFlow](https://gist.github.com/CryptoMF/11fb235322c1cc0a635c3133dd95f404/) - Several Indicators combined with TP and Re-Entries
