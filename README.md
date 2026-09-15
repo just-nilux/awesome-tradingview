@@ -60,6 +60,7 @@ However, this list is a collection of strategies and indicators build on Trading
 * [StackedInvest (Commercial)](https://stackedinvest.com?via=ftx) - The Best Automated Trading Strategies
 * [3Commas (Commercial)](https://3commas.io/?c=ftx) - Easily automate TradingView Strategies
 * [FrostyBot (Open-Source)](https://github.com/CryptoMF/frostybot) - An API-Endpoint for webhook alerts written in PHP 
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 <a name="#github-more" />
 
