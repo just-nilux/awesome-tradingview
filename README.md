@@ -47,6 +47,7 @@ However, this list is a collection of strategies and indicators build on Trading
 
 ## Indicators & Strategies
 
+* [Crypto Setup Planner (Commercial)](https://www.agprolabs.com/product/crypto-setup-planner/) - Paid, invite-only TradingView indicator for ranked crypto and stock screening, setup context and data-quality checks. Manual chart review; no automated execution.
 * [NLX TradingView Bot](https://bit.ly/3E9ZSWx/) - TV Trading Bot Backtest/Alerts [Message me for access](https://www.tradingview.com/u/nilux/)
 * [GitLemon Trading](https://github.com/grimmolf/LemonTrading/blob/master/GitLemon) - Bollinger Band, Keltner Channel Squeezes & Market Structure
 * [MF RedFlow](https://gist.github.com/CryptoMF/11fb235322c1cc0a635c3133dd95f404/) - Several Indicators combined with TP and Re-Entries
