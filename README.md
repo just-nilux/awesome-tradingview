@@ -28,6 +28,7 @@ However, this list is a collection of strategies and indicators build on Trading
 * [A Deeper Look Into Security Function](https://docs.google.com/document/d/1HBoJVjb2wDpLnzKOlZalyFPXlUGMeMGVzZNzBTpv8cU/edit/) - Another take on the security() function
 * [Pinescript Execution Time](https://www.tradingview.com/script/rRmrkRDr-Script-Stopwatch-PineCoders-FAQ/) - Calculate the run time of a Pine Script for performance optimisation
 * [More Essential Resources for Beginners](https://www.pinecoders.com/faq_and_code/) - A compendium of frequently asked questions by PineCoders
+* [Charts](https://chartsgg.com/pine-script-editor) - Run Pine Script and MQL4/MQL5 indicators in the browser on any market, export Pine Script to MQL5
 
 <a name="#github-frameworks" />
 
