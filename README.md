@@ -51,6 +51,7 @@ However, this list is a collection of strategies and indicators build on Trading
 * [GitLemon Trading](https://github.com/grimmolf/LemonTrading/blob/master/GitLemon) - Bollinger Band, Keltner Channel Squeezes & Market Structure
 * [MF RedFlow](https://gist.github.com/CryptoMF/11fb235322c1cc0a635c3133dd95f404/) - Several Indicators combined with TP and Re-Entries
 * [RSX Divergence](https://www.tradingview.com/script/ujh3sCzy-RSX-Divergence-SharkCIA/) - Everget's Implementation of RSX with Divergences
+* [SignalCheckerHQ TradingView Scripts](https://github.com/signalcheckerhq/tradingview-scripts) - Open-source Pine v6 indicators that estimate after-fee results on historical prices for trade calls, grid/DCA bots and backtests
 
 <a name="#github-tradingbots" />
 
